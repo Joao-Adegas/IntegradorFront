@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estudo Colaborativo - Língua Espanhola</title>
+
+  <style>
+    /* = Fundo com degradê = */
+    body {
+      background: linear-gradient(to bottom, #f9f9f9, #ffffff);
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    /* = Cabeçalho centralizado = */
+    header {
+      background-color: #e74c3c;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    header h1 {
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.2); /* sombra */
+    }
+
+    /* = Conteúdo principal = */
+    main {
+      padding: 20px 40px;
+      line-height: 1.6;
+    }
+
+    /* == Parágrafos = */
+    p {
+      text-indent: 30px; 
+      margin-bottom: 15px;
+    }
+
+    /* =Títulos fonte e sombra = */
+    h2 {
+      font-family: 'Trebuchet MS', sans-serif; 
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+      color: #e74c3c;
+      border-bottom: 2px solid #e74c3c;
+      padding-bottom: 5px;
+    }
+
+    /* = Destaque visual = */
+    em {
+      display: block;
+      text-align: center;
+      font-size: 1.1em;
+      color: #555;
+      background-color: #f9f9f9;
+      padding: 10px;
+      border-left: 4px solid #e74c3c;
+      margin: 20px 0;
+    }
+
+    /* = Rodapé p= */
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+
+    footer p {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- = Cabeçalho atualizado = -->
+  <header>
+    <h1>Estudo Colaborativo - Língua Espanhola</h1>
+    <p>Atualizações de layout realizadas por <strong>Júlia</strong></p>
+  </header>
+
+  <!-- = Conteúdo principal = -->
+  <main>
+    <h2>Sobre o Projeto</h2>
+    <p>Este projeto tem como objetivo reunir informações sobre a Língua Espanhola e suas variações culturais, explorando aspectos linguísticos e expressões regionais.</p>
+
+    <h2>Importância do Estudo</h2>
+    <p>Compreender o espanhol amplia as possibilidades de comunicação, estudo e trabalho, sendo uma das línguas mais faladas no mundo.</p>
+
+    <em>"La práctica hace al maestro."</em> <!-- destaque estilizado -->
+  </main>
+
+  <!-- = Rodapé criado por Júlia = -->
+  <footer>
+    <p><strong>Nova seção criada por Júlia:</strong> Esta página faz parte do estudo colaborativo sobre a Língua Espanhola.</p>
+    <p>© 2025 - Projeto de Desenvolvimento Web | Atualizado por <strong>Júlia</strong></p>
+  </footer>
+
+</body>
+</html>
+
