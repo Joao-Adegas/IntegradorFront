@@ -78,10 +78,8 @@
 
 <body>
 
-  <!-- = Cabeçalho atualizado = -->
   <header>
-    <h1>Estudo Colaborativo - Língua Espanhola</h1>
-    <p>Atualizações de layout realizadas por <strong>Júlia</strong></p>
+    <h1>Pesquisa Colaborativa - Língua Espanhola</h1>
   </header>
 
   <!-- = Conteúdo principal = -->
